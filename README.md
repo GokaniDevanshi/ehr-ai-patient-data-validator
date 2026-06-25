@@ -12,13 +12,10 @@ https://hl7.org/fhir/
 - GitHub Actions
 
 #**Architecture**
-FHIR API
-    ↓
-Playwright
-    ↓
-Schema Validation
-    ↓
-Ollama Analysis
+- FHIR API
+- Playwright
+- Schema Validation
+- Ollama Analysis
 
     
 #**Features**
